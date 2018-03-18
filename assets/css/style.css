@@ -8,13 +8,11 @@
 .name{
 	text-align: center;
 	color: white;
-	font-family: "Helvetica";
-	font-weight: lighter;
+	font-weight:lighter;
 	}
 .labels{
 	text-align: center;
 	color: white;
-	font-family: "Helvetica";
 	font-size:12pt;
 	font-weight: lighter;
 }
@@ -38,7 +36,6 @@
    text-shadow: #000000 0 1px 0;
    color: #ffffff;
    font-size: 18px;
-   font-family: helvetica, serif;
    text-decoration: none;
 
    }
@@ -70,7 +67,9 @@
 
 body{
 	
-	background-color: rgb(30,30,30);
+	background-color: #1D1E26;
+	font-family: "courier";
+	
 }
 
 .content{
@@ -79,6 +78,5 @@ body{
 	position: fixed;         
     bottom: 0px; 
     width: 100%;
-	font-family: "Helvetica";
 	font-size:9pt;
 }
